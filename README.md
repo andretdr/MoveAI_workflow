@@ -6,3 +6,9 @@ https://www.youtube.com/watch?v=GtT9VJA6snE
 
 Retargetting info from moveAI page
 https://help.move.ai/en/articles/8867960-unreal-engine-retargeting-move-one-to-metahuman-rigs
+
+
+
+
+
+Metahuman animator / livelink
