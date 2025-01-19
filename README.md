@@ -12,3 +12,7 @@ https://help.move.ai/en/articles/8867960-unreal-engine-retargeting-move-one-to-m
 
 
 Metahuman animator / livelink
+https://www.youtube.com/watch?v=hZ2mkcd4C7M
+
+
+https://www.youtube.com/watch?v=TkYKYMllL-A
