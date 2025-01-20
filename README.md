@@ -19,6 +19,11 @@ Head/face capture, and an issue w the livelink having head and neck animation on
 https://www.youtube.com/watch?v=eC4OKJC0LQw&t=470s
 
 
+Audio2Face Nvidia
+https://www.youtube.com/watch?v=c3L9382W-LA
+https://www.youtube.com/watch?v=ScMb1f1M9yU
+
+
 
 ## Steps
 1.) Bring in Metahuman from bridge into Maya   
