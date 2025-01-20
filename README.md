@@ -13,10 +13,10 @@ https://help.move.ai/en/articles/8867960-unreal-engine-retargeting-move-one-to-m
 
 Metahuman animator / livelink
 https://www.youtube.com/watch?v=hZ2mkcd4C7M
-
-
 https://www.youtube.com/watch?v=TkYKYMllL-A
 
+Head/face capture, and an issue w the livelink having head and neck animation ontop of the body movement, thereby doubling up the animation
+https://www.youtube.com/watch?v=eC4OKJC0LQw&t=470s
 
 
 
