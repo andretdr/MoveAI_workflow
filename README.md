@@ -15,8 +15,19 @@ Metahuman animator / livelink
 https://www.youtube.com/watch?v=hZ2mkcd4C7M
 https://www.youtube.com/watch?v=TkYKYMllL-A
 
+full unreal workflow
+https://www.youtube.com/watch?v=XvgN_c10b-s
+
+
+
+
+
 Head/face capture, and an issue w the livelink having head and neck animation ontop of the body movement, thereby doubling up the animation
 https://www.youtube.com/watch?v=eC4OKJC0LQw&t=470s
+
+
+
+
 
 
 Audio2Face Nvidia
