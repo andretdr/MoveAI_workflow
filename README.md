@@ -4,35 +4,35 @@ workflow for moveAI/unreal/Maya
 Recording and bringing in metahuman directly in Unreal for use in unreal. Does not go through retargetting, doesn't eally work for me. good for the metahuman/sequencer refresher.
 https://www.youtube.com/watch?v=GtT9VJA6snE
 
-Retargetting info from moveAI page
-https://help.move.ai/en/articles/8867960-unreal-engine-retargeting-move-one-to-metahuman-rigs
+Retargetting info from moveAI page   
+https://help.move.ai/en/articles/8867960-unreal-engine-retargeting-move-one-to-metahuman-rigs   
 
 
 
 
 
-Metahuman animator / livelink
-https://www.youtube.com/watch?v=hZ2mkcd4C7M
-https://www.youtube.com/watch?v=TkYKYMllL-A
+Metahuman animator / livelink   
+https://www.youtube.com/watch?v=hZ2mkcd4C7M   
+https://www.youtube.com/watch?v=TkYKYMllL-A   
 
-full unreal workflow
-https://www.youtube.com/watch?v=XvgN_c10b-s
-
-
-
-
-
-Head/face capture, and an issue w the livelink having head and neck animation ontop of the body movement, thereby doubling up the animation
-https://www.youtube.com/watch?v=eC4OKJC0LQw&t=470s
+full unreal workflow   
+https://www.youtube.com/watch?v=XvgN_c10b-s   
 
 
 
 
 
+Head/face capture, and an issue w the livelink having head and neck animation ontop of the body movement, thereby doubling up the animation   
+https://www.youtube.com/watch?v=eC4OKJC0LQw&t=470s   
 
-Audio2Face Nvidia
-https://www.youtube.com/watch?v=c3L9382W-LA
-https://www.youtube.com/watch?v=ScMb1f1M9yU
+
+
+
+
+
+Audio2Face Nvidia   
+https://www.youtube.com/watch?v=c3L9382W-LA   
+https://www.youtube.com/watch?v=ScMb1f1M9yU   
 
 
 
