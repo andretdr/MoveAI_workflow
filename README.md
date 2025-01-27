@@ -24,21 +24,21 @@ https://www.youtube.com/watch?v=ScMb1f1M9yU
 
 
 ## Steps
-1.) Bring in Metahuman from bridge into Maya   
-https://www.youtube.com/watch?v=Z-Mjr3rz4rs
-2.) Rig metahuman using advanced skeleton   
-https://www.youtube.com/watch?v=Z-Mjr3rz4rs
-3.) Bring in MoveAI, Tpose both.
-MoveAI Tpose at -1
-Advanced Skeleton Tpose -> https://www.youtube.com/watch?v=HV-Au4d5QL0 (AS picker->Pose->Tpose)
+1.) Bring in Metahuman from bridge into Maya      
+https://www.youtube.com/watch?v=Z-Mjr3rz4rs   
+2.) Rig metahuman using advanced skeleton      
+https://www.youtube.com/watch?v=Z-Mjr3rz4rs   
+3.) Bring in MoveAI, Tpose both.   
+MoveAI Tpose at -1   
+Advanced Skeleton Tpose -> https://www.youtube.com/watch?v=HV-Au4d5QL0 (AS picker->Pose->Tpose)   
 
-FACE
-1.) Record face using MHA, unreal
-https://www.youtube.com/watch?v=hZ2mkcd4C7M
-2.) Export face to Maya using plugIn
-https://www.youtube.com/watch?v=YyWw-yofP_I&t=524s
-3.) Edit and export back everything to Unreal
-https://www.youtube.com/live/OYjq4aRgKWg?
+FACE   
+1.) Record face using MHA, unreal   
+https://www.youtube.com/watch?v=hZ2mkcd4C7M   
+2.) Export face to Maya using plugIn   
+https://www.youtube.com/watch?v=YyWw-yofP_I&t=524s   
+3.) Edit and export back everything to Unreal   
+https://www.youtube.com/live/OYjq4aRgKWg?   
 
 
 ## Clothing
