@@ -46,6 +46,8 @@ Maya to unreal clothing
 https://youtu.be/8qeIRkI3wNY?si=uh-O4iPo91SZT407   
 Simlulating the clothing in UE   
 https://www.youtube.com/watch?v=QW7LEY5JA88   
-   
 costume   
 https://www.youtube.com/watch?v=SbSEI-meots   
+
+Maya nCloth
+https://www.youtube.com/watch?v=RhAxSgPpZww&t=1934s
